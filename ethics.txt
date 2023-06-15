@@ -1,0 +1,21 @@
+Please write your response to the reflective ethics question here.
+
+Question 1, yes, I believe that search engine companies have ethical issues
+when it comes to adjusting the ranking of search results related to their interests.
+This is a result that contradicts universal values. Allowing such situations to
+continue as a driving force for greater benefits will only make the situation in the
+internet ecosystem worse and worse. The status of users will become lower and lower,
+becoming victims of capital and information manipulation. To change this situation,
+first we can require search engine companies to disclose their search algorithms and
+accept regulation at the legal level.
+Second, we can accept feedback from users on ads placed on search engines
+(of course, provided that the feedback is genuine).
+However, considering the huge cost issue faced by search engine companies,
+I would be willing to pay fees equivalent to my usage scenario and its value.
+
+
+For the second question, I believe that the most important goal of
+a search engine is to quickly provide comprehensive and authentic information
+to the public. Only authentic information is fair and valuable.
+In implementing Bajillion search engine, my only pursuit is for
+algorithm comprehensiveness, accuracy, and speed.
